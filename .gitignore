@@ -1,0 +1,5 @@
+env
+.env
+t.py
+__pycache__
+.idea
